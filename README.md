@@ -1,6 +1,6 @@
 # GestionCommandeVDL
 Projet ingénierie logicielle : Balade en Val de Loire
-
+[cf. cahier de charge](Ballade_VDL_SiteWeb_CahierCharge.pdf)
 # BALADES DANS LA VALLEE DE LA LOIRE
 
 La Vallée de la Loire est une région exceptionnelle qui réunit patrimoine historique, paysages naturels remarquables et une culture riche. Classée au patrimoine mondial de l'UNESCO, elle abrite plus de 300 châteaux emblématiques, des vins renommés (Sancerre, Chinon, Vouvray) et offre de multiples activités telles que la randonnée, le vélo et le canoë.
@@ -13,9 +13,6 @@ Applications/outils utilisés :
 - Visual Paradigm Project
 - Looping
 - Figma
-
-cf. cahier de charge
-
 
 ## 1. Fonctionnalités principales
 •	Cartographie interactive : Présentation des points d’intérêt (châteaux, musées, réserves naturelles, etc.) avec descriptions géographiques, historiques et sociales, inspirées du modèle Wikipédia.
@@ -43,29 +40,44 @@ Les acteurs :
 
 
 ### 2.1 Diagramme de cas d’utilisation
-![Apperçu](Image_vdl/Diag_cas_utilisation.png)
-### 2.2 Diagramme MCD
+![Apperçu](Image_vdl/Diag_cas_utilisation.jpg)
 
-### 2.3 Diagramme de classe
+### 2.2 Diagramme MCD
+![Apperçu](Image_vdl/Mcd.jpg)
+
+### 2.3 Diagramme MLD
+![Apperçu](Image_vdl/MLD.png)
 
 ### 2.4 Diagramme de séquence
-	#### 2.4.1	Créer un itinéraire personnalisé
+	### 2.4.1	Créer un itinéraire personnalisé
+![Apperçu](Image_vdl/Diag_sequence_itinerairePerso.jpg)
 
-
-	#### 2.4.2	Soumettre une candidature de partenariat
-
+	### 2.4.2	Soumettre une candidature de partenariat
+![Apperçu](Image_vdl/Diag_sequence_candidaturePartenaire.jpg)
 
 	#### 2.4.3	Ajouter un commentaire sur un lieu
+![Apperçu](Image_vdl/Diag_sequence_ComLieu.jpg)
 
 ### 2.5 Diagramme état transition
+![Apperçu](Image_vdl/Diag_Etat_Transition.jpg)
 
 ### 2.6 Diagramme de flux
+![Apperçu](Image_vdl/Diag_Flux.png)
 
 ### 2.7 Diagramme d'activité
+![Apperçu](Image_vdl/Diag_activite_ajoutPartenaire.jpg)
+![Apperçu](Image_vdl/diag_activite_sauvegarde_itineraire.jpg)
+![Apperçu](Image_vdl/diag_activite_soumettre_com.jpg)
 
 ## 3. Présentation du site Web
+![Apperçu](Image_vdl/VDL_page1.png)
+![Apperçu](Image_vdl/VDL_page2.png)
+![Apperçu](Image_vdl/VDL_page3.png)
+![Apperçu](Image_vdl/VDL_page4.png)
+![Apperçu](Image_vdl/VDL_page5.png)
+
+[Lien site](https://www.figma.com/proto/bVaiu6GiXmaA5JcbnaEG9g/Projet-Balade-vall%C3%A9e-de-la-loire?node-id=17-2&p=f&t=q4J1W9UKktlQnsh5-1&scaling=min-zoom&content-scaling=fixed&page-id=5%3A8&starting-point-node-id=17%3A2)
 
 ## 4. Conclusion
- 
 Notre projet "Balade dans la Vallée de la Loire" propose une solution innovante pour faciliter la découverte des richesses culturelles et historiques de la région. Grâce à des fonctionnalités interactives et des contributions communautaires, l'application offre une expérience enrichissante et personnalisée aux visiteurs.
 Ce projet illustre notre capacité à concevoir des solutions numériques adaptées aux besoins des utilisateurs, tout en valorisant le patrimoine local. Nous sommes convaincus qu'il apportera une nouvelle dynamique au tourisme dans la région.
