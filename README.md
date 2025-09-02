@@ -43,7 +43,7 @@ Les acteurs :
 
 
 ### 2.1 Diagramme de cas d’utilisation
-
+![Apperçu](Image_vdl/Diag_cas_utilisation.png)
 ### 2.2 Diagramme MCD
 
 ### 2.3 Diagramme de classe
