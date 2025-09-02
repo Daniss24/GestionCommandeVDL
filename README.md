@@ -1,7 +1,7 @@
 # GestionCommandeVDL
 Projet ingénierie logicielle : Balade en Val de Loire
 
-# BALADES DANS LA VALLEE DE LA LOIRE : Balades dans la
+# BALADES DANS LA VALLEE DE LA LOIRE
 
 La Vallée de la Loire est une région exceptionnelle qui réunit patrimoine historique, paysages naturels remarquables et une culture riche. Classée au patrimoine mondial de l'UNESCO, elle abrite plus de 300 châteaux emblématiques, des vins renommés (Sancerre, Chinon, Vouvray) et offre de multiples activités telles que la randonnée, le vélo et le canoë.
 Cependant, la promotion des circuits de découverte reste fortement dépendante des supports traditionnels tels que les guides, les cartes et les flyers, souvent considérés comme polluants, coûteux et peu flexibles.
